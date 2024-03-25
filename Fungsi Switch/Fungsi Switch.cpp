@@ -69,6 +69,8 @@ int main()
 			cout << "Hasil Pembagian = " << pembagian(bilSatu, bilDua) << endl;
 			system("pause");
 			break;
+		case 5:
+			break;
 	} 
 	
 
