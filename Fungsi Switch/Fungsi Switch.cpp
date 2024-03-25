@@ -54,7 +54,11 @@ int main()
 			cout << "Hasil Penjumlahan = " << penjumlahan(bilSatu, bilDua) << endl;
 			system("pause");
 			break;
-		
+		case 2:
+			input();
+			cout << "Hasil Pengurangan = " << pengurangan(bilSatu, bilDua) << endl;
+			system("pause");
+			break;
 	} 
 	
 
